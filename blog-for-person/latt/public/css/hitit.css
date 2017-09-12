@@ -1,0 +1,22 @@
+.hitit{
+    height:140px;
+    width:300px;
+    margin:0px auto 30px;
+}
+.phitme{
+
+    color: #f76f03;
+    margin-bottom:5px;
+    padding:0px;
+}
+#hitme{
+    margin-left:28px;
+}
+#hitits{
+    text-align: center;
+    margin:0 auto 50px;
+    padding-right:15px;
+}
+label{
+    color:white;
+}
